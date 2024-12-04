@@ -1,4 +1,5 @@
 print("Hola mundo, proyecto de Python")
+print("Hola")
 
 def suma(a,b):
     resultado = a + b
